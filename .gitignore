@@ -30,7 +30,6 @@ Debug/
 Release/
 
 # Executables
-*.exe
 *.out
 *.app
 
